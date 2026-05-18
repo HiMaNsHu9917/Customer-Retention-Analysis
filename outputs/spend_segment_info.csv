@@ -1,0 +1,5 @@
+"spend_segment","num_customers","avg_revenue_in_segment","segment_total_revenue","percent_customer","percent_revenue"
+"High Value (10k+)","267","33552.65","8958557.75","4.54","50.49"
+"Mid Value (1k-10k)","2480","3009.49","7463526.41","42.19","42.06"
+"Low Value (100-1k)","2924","447.50","1308501.43","49.74","7.37"
+"Micro (under 100)","207","62.05","12843.58","3.52","0.07"
